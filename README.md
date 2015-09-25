@@ -7,6 +7,6 @@ Prep Lesson Assignment:
 
 - Getting started guide: http://guides.rubyonrails.org/getting_started.html
 
-- Create a new project using Scaffold
+- Create a new project using generate Scaffold
 
 - Set up a 1:M and a M:M Association 
